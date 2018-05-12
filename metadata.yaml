@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25540
     wikipedia: http://en.wikipedia.org/wiki/Paul_Carus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22782#The-BuddhaA-Drama-in-Five-Acts-and-Four-Interludes
 gutenberg_issued: '2007-09-27'
 gutenberg_type: Text
 identifiers:
